@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sqlalchemy = "*"
+pymysql = {extras = ["rsa"], version = "*"}
+argon2-cffi = "*"
+pytest = "*"
+pytest-mock = "*"
+pyjwt = {extras = ["crypto"], version = "*"}
+cryptography = "*"
+passlib = "*"
+coverage = "*"
+pytest-cov = "*"
+click = "*"
+rich = "*"
+setuptools = "*"
+sentry-sdk = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

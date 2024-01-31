@@ -1,0 +1,4 @@
+config.ini
+__pycache__
+scratch*
+README_model.md
