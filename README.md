@@ -1,4 +1,4 @@
-# TITLE CRM EPic Event
+CRM EPic Event
 ![](icon.png)
 
 ## About
